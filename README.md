@@ -13,4 +13,33 @@ Datormācibas kursa elektroniskā klade
    11  ls -a - parāda visas mapes, kuras ir pieejamas uz datora.
    12  ls -la - parāda detalizētu informāciju par mapēm, to saturu, izveidošanas datumu, īpašnieku.
    13  clear - notīrīt darba virsmu
-   14  history >> history_20180912.txt - izveidot teksta failu ar šodienas vēsturi
+   history >> history_20180912.txt - izveidot teksta failu ar šodienas vēsturi
+    
+    
+
+    9  cd Music - Mainit direktoriju
+   17  cd . - solis direktorijaa uz vietas
+   19  cd .. - pariet uz augstak stavosu mapi
+   32  cd Home/Birthrepelant
+   33  cd home
+   35  cd home/user
+   36  cd /home/birthrepelant/
+   38  cd / - parvietoties uz pasu sakumu
+   43  cd ~ - tikt uz majam
+   50  mkdir rib - izveidot direktoriju
+   58  rmdir rib/ - izdzest mapi
+   70  rm -r - izdzest direktoriju neskatoties uz to, ka mape ir saturs
+   77  echo  "text" - terminali pasaka ievadito tekstu
+   79  echo "teksts
+teksts
+teksts" - pasaka tekstu vairakas rindas
+   81  man echo
+   82  echo -e "es\nes\nes" - pasaka tekstu vairakas rindas
+   86  echo "best" > fails1.txt
+   88  cat fails1.txt - pasaka faila saturu
+   89  less fails1.txt  - pasaka faila saturu
+   90  echo "best" > fails1.txt redige faila saturu uz ievadito
+   95  more fails1.txt  - pasaka faila saturu
+  103  nano fails1.txt - atver teksta redaktoru
+  106  chmod 540 fails1.txt - izmaina faila pieejamibu
+  118  mv *1*.txt Music/ - parvieto visus failus kas satur ierakstito simbolu uz noradito mapi
