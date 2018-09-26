@@ -43,3 +43,13 @@ teksts" - pasaka tekstu vairakas rindas
   103  nano fails1.txt - atver teksta redaktoru
   106  chmod 540 fails1.txt - izmaina faila pieejamibu
   118  mv *1*.txt Music/ - parvieto visus failus kas satur ierakstito simbolu uz noradito mapi
+    4  nano skripts_mans_skripts.sh - izveidot sava skripta failu
+    5  cat skripts_mans_skripts.sh parbaudit sava skripta faila saturu
+   13  echo $PATH - parada visus celus uz galvenajam direktorijam
+   14  ./skripts_mans_skripts.sh - palaist skriptu
+   15  /home/user/skripts_mans_skripts.sh
+   19  chmod 764 skripts_mans_skripts.sh - izmainit skripta faila ipasibas
+   21  echo $PATH
+   22  PATH=$PATH:/home/user - pievienot jaunu galveno celu
+   27  git clone https://github.com/win32del/RTR105 - lejupieladet githuba repozitariju
+
