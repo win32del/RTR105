@@ -53,3 +53,10 @@ teksts" - pasaka tekstu vairakas rindas
    22  PATH=$PATH:/home/user - pievienot jaunu galveno celu
    27  git clone https://github.com/win32del/RTR105 - lejupieladet githuba repozitariju
 
+print(123) - parāda ievadīto iekavās
+print("yeeee") - Ar pēdiņām parāda tekstu
+float(a) - pārveido nodefinēto simbolu par decimālou
+int(a) - ārveido nodefinēto simbolu par skaitli
+str(a) - ārveido nodefinēto simbolu par  vārdu vai burtu
+10 % 9 = 1 - parāda atlikumu no dalījuma
+2 ** 3 - kāpinājums
