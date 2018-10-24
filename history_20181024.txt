@@ -1,0 +1,277 @@
+    1  hello
+    2  mkdir platypus
+    3  mkdir
+    4  cp platypus des
+    5  cp src des
+    6  cp platypus desktop
+    7  cp platypus /desktop
+    8  sudo install spotify
+    9  install help
+   10  sudo install help
+   11  sudo instal --help
+   12  install --help
+   13  sudo install spotify platypus
+   14  sudo install platypus spotify
+   15  firefox
+   16  open firefox
+   17  google
+   18  adjlsafjsd
+   19  rm platypus
+   20  spotify
+   21  sudo snap install spotify
+   22  spotify
+   23  load gail
+   24  clear
+   25  sudo analcake.txt
+   26  insert cake
+   27  channel kill
+   28  ls -a
+   29  clear
+   30  adsndda
+   31  clear
+   32  dasdas
+   33  clear
+   34  firefox
+   35  pwd
+   36  ls
+   37  ls -a
+   38  whoami
+   39  who
+   40  ls -l
+   41  clear
+   42  cd Music
+   43  pwd
+   44  ls
+   45  ls -l
+   46  ls -a
+   47  ls la
+   48  ls -la
+   49  pwd
+   50  cd .
+   51  pwd
+   52  cd ..
+   53  pwd
+   54  ls -la
+   55  cd .
+   56  pwd
+   57  cd ..
+   58  pwd
+   59  ls -la
+   60  cd ..
+   61  pwd
+   62  ls -la
+   63  cd ..
+   64  pwd
+   65  cd Home/Birthrepelant
+   66  cd home
+   67  pwd
+   68  cd home/user
+   69  cd /home/birthrepelant/
+   70  pwd
+   71  cd /
+   72  pwd
+   73  cd /dev/
+   74  pwd
+   75  cd /
+   76  cd ~
+   77  pwd
+   78  clear
+   79  cd /
+   80  cd 
+   81  pwd
+   82  sudo cd /
+   83  mkdir pussy
+   84  cd /home/birthrepelant/pussy/
+   85  mkdir shit
+   86  ls la
+   87  ls -la
+   88  cd shit/
+   89  cd
+   90  pwd
+   91  rmdir pussy/
+   92  rmdir shit/
+   93  rmdir /pussy/shit
+   94  rmdir shit
+   95  cd shit
+   96  cd /home/birthrepelant/pussy/shit/
+   97  cd
+   98  rmdir pussy
+   99  y
+  100  sudo rmdir pussy
+  101  man rmdir
+  102  man rm
+  103  rm -r pussy
+  104  pwd
+  105  cd pussy
+  106  ls la
+  107  ls -la
+  108  clear
+  109  man echo
+  110  echo  "text"
+  111  echo "baller nigg"
+  112  echo "teksts
+  113  teksts
+  114  teksts"
+  115  echo "sex\nrape\nrape"
+  116  man echo
+  117  echo -e "sex\nrape\nrape"
+  118  celar
+  119  clear
+  120  echo "best"
+  121  echo "best" > fails1.txt
+  122  ls -la
+  123  cat fails1.txt 
+  124  less fails1.txt 
+  125  echo "Nigga you da best" > fails1.txt
+  126  ls -la
+  127  cat fails1.txt 
+  128  ls -la
+  129  cat fails1.txt 
+  130  more fails1.txt 
+  131  less fails1.txt 
+  132  clear
+  133  echo "best" > fails1.txt
+  134  cat fails1.txt 
+  135  echo "best" >> fails1.txt
+  136  cat fails1.txt 
+  137  ls -la
+  138  nano fails1.txt
+  139  ls -la
+  140  cat fails1.txt 
+  141  chmod 540 fails1.txt 
+  142  ls -l
+  143  echo "pimps blje" fails1.txt 
+  144  cat fails1.txt 
+  145  nano fails1.txt 
+  146  echo "pimps blje" ../fails1.txt 
+  147  clear
+  148  echo "hello coputer"
+  149  ls- l
+  150  ls -l
+  151  cp fails1.txt fails101.txt
+  152  ls -l
+  153  mv *1*.txt Music/
+  154  ls -l
+  155  cd /music
+  156  cd music/
+  157  cd music
+  158  mv *1*.txt > Music/
+  159  mv fails1.txt ..failsass.txt
+  160  cd /Music
+  161  cd ~
+  162  undo
+  163  un do
+  164  ls -la
+  165  cd Music
+  166  ls -l
+  167  mv fails1o1.txt ../fails1011.txt
+  168  mv fails101.txt ../fails1011.txt
+  169  ls -l
+  170  cd ~
+  171  rm /Music/fails1.txt
+  172  rm/Music/fails1.txt
+  173  rm Music/fails1.txt
+  174  rm fails*.txt
+  175  ls -la
+  176  man rm
+  177  history 
+  178  history > history_20180917.txt
+  179  ls -la
+  180  less history_20180917.txt 
+  181  mv history_20180917.txt desktop
+  182  ls -la
+  183  cd desktop
+  184  cd Desktop
+  185  ls -l
+  186  ls -la
+  187  cd ~
+  188  ls -la
+  189  history > history_20180917.txt platypus
+  190  history > history_20180917.txt
+  191  ls -la
+  192  cd .gnupg
+  193  ls -l
+  194  cd downloads
+  195  cd Downloads/
+  196  cd music
+  197  cd Music
+  198  cd ~
+  199  cd music
+  200  cd music/
+  201  cd music?
+  202  cd Music/
+  203  cd /dev/
+  204  pwd
+  205  man /dev/
+  206  cd RTR105?
+  207  cd RTR105/
+  208  ./git-upload https://github.com/win32del/RTR105
+  209  rm -rf RTR105/
+  210  git clone https://github.com/win32del/RTR105
+  211  cd RTR105/
+  212  firefox &
+  213  python
+  214  idle
+  215  git clone https://github.com/win32del/RTR105
+  216  sudo apt install git
+  217  apt-get update
+  218  git clone https://github.com/win32del/RTR105
+  219  sudo apt install git
+  220  sudo apt-get install git
+  221  ping www.google.com
+  222  sudo apt-get install git
+  223  sudo apt-get update
+  224  sudo apt-get install git
+  225  git clone https://github.com/win32del/RTR105
+  226  cd /RTR105
+  227  cd RTR105/
+  228  python
+  229  python3
+  230  clear
+  231  ipython
+  232  sudo apt ipython
+  233  nano ipython
+  234  ipython
+  235  sudo apt install ipython
+  236  ipython
+  237  idle &
+  238  sudo apt install idle
+  239  idle &
+  240  idle
+  241  clear
+  242  git clone https://github.com/win32del/RTR105
+  243  sudo apt install git
+  244  git clone https://github.com/win32del/RTR105
+  245  sudo apt install git
+  246  firefox &
+  247  cd RTR105?
+  248  cd RTR105/
+  249  cat dgr_20181015.py
+  250  clear
+  251  ls -l
+  252  nano git-upload
+  253  firefox
+  254  python
+  255  idle
+  256  nano Njiba.py
+  257  cat njiba.py
+  258  cd RTR105?
+  259  cd RTR105/
+  260  nano njaag.py 
+  261  cat Njiba.py
+  262  nano README.md
+  263  rn Njiba.py > history_20181022_17_14
+  264  man md
+  265  md man
+  266  Njiba.py > history_20181022_17_16
+  267  history > history_20181022_17_17
+  268  ./git-upload 20181022_17_17
+  269  rm RTR105
+  270  rm -rf RTR105
+  271  cd RTR105/
+  272  git clone https://github.com/win32del/RTR105
+  273  cd RTR105/
+  274  idle
+  275  cat today\ i\ learned\ Loope.py 
+  276  nano README.md
+  277  history > history_20181024.txt
