@@ -342,3 +342,4 @@ Before
 After 3
 >>> 
 
+nnn = lower.()
