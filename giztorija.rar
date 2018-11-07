@@ -1,0 +1,70 @@
+Python 3.6.5 (default, Apr  1 2018, 05:46:30) 
+[GCC 7.3.0] on linux
+Type "copyright", "credits" or "license()" for more information.
+>>> handle = open("zedd","r")
+Traceback (most recent call last):
+  File "<pyshell#0>", line 1, in <module>
+    handle = open("zedd","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'zedd'
+>>> handle
+Traceback (most recent call last):
+  File "<pyshell#1>", line 1, in <module>
+    handle
+NameError: name 'handle' is not defined
+>>> fhand = open(Zedd,"r")
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in <module>
+    fhand = open(Zedd,"r")
+NameError: name 'Zedd' is not defined
+>>> fhand = open(zedd,"r")
+Traceback (most recent call last):
+  File "<pyshell#3>", line 1, in <module>
+    fhand = open(zedd,"r")
+NameError: name 'zedd' is not defined
+>>> fhand = open("zedd","r")
+Traceback (most recent call last):
+  File "<pyshell#4>", line 1, in <module>
+    fhand = open("zedd","r")
+FileNotFoundError: [Errno 2] No such file or directory: 'zedd'
+>>> fhand = open("zedd.txt","r")
+>>> fhand
+<_io.TextIOWrapper name='zedd.txt' mode='r' encoding='UTF-8'>
+>>> stuff = "Hello\nworld!"
+>>> stuff
+'Hello\nworld!'
+>>> print(stuff)
+Hello
+world!
+>>> stuff = "x\ny"
+>>> print(stuff)
+x
+y
+>>> len(stuff)
+3
+>>> x = open("zedd.txt")
+>>> for john in x:
+	print(john)
+
+	
+hello who is john is he anywhere near me could he be a dead man breathing in my mind is the end near can we please have a moment to recollect our simple thoughts and drain our sorrow with a barell pointed towards our nostrills to breathe in the smell of eminent doom this is what we have become a mere species sort that no longer exists only in our vivid visions do we protrey ourselves as a godlike society with many privilages over the lower standing animals but who are we to tell everyone how things should be run
+
+we are not worthy
+
+>>> 
+================= RESTART: /home/birthrepelant/RTR105/32.py =================
+Line Count 2
+>>> 
+================= RESTART: /home/birthrepelant/RTR105/33.py =================
+536
+hello who is john is
+>>> 
+================= RESTART: /home/birthrepelant/RTR105/34.py =================
+hello who is john is he anywhere near me could he be a dead man breathing in my mind is the end near can we please have a moment to recollect our simple thoughts and drain our sorrow with a barell pointed towards our nostrills to breathe in the smell of eminent doom this is what we have become a mere species sort that no longer exists only in our vivid visions do we protrey ourselves as a godlike society with many privilages over the lower standing animals but who are we to tell everyone how things should be run
+
+>>> 
+================= RESTART: /home/birthrepelant/RTR105/35.py =================
+hello who is john is he anywhere near me could he be a dead man breathing in my mind is the end near can we please have a moment to recollect our simple thoughts and drain our sorrow with a barell pointed towards our nostrills to breathe in the smell of eminent doom this is what we have become a mere species sort that no longer exists only in our vivid visions do we protrey ourselves as a godlike society with many privilages over the lower standing animals but who are we to tell everyone how things should be run
+>>> 
+================= RESTART: /home/birthrepelant/RTR105/35.py =================
+hello who is john is he anywhere near me could he be a dead man breathing in my mind is the end near can we please have a moment to recollect our simple thoughts and drain our sorrow with a barell pointed towards our nostrills to breathe in the smell of eminent doom this is what we have become a mere species sort that no longer exists only in our vivid visions do we protrey ourselves as a godlike society with many privilages over the lower standing animals but who are we to tell everyone how things should be run
+>>> 
